@@ -16,7 +16,7 @@ Hi , This is the 4th project in the journey  of learning HTML and CSS from scrat
 
 ## Preview
 ***
-## [Live Link](https://04-seo-webpage.netlify.app/)
+## [Live Link](https://04-seo-webpage.vercel.app/)
 ![Screenshot](./thumbnail.png)
 
 ## Time Taken to complete this project -2 hrs
